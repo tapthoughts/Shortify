@@ -2,7 +2,7 @@
 
 # ***Shortify***
 ## ***Faster than 4x***
- Shortify provides summary of the video contents and also generates a shorter version of it by cropping it, depending upon some frames which are chosen 
+ Shortify provides summary of the video contents and also generates a shorter version by cropping it, depending upon the frames chosen 
  using Machine Learning.
 
 
