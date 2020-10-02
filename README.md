@@ -1,14 +1,13 @@
 # HashHacks3_dhruvbhatnagar10458
 
+
 # ***Shortify***
 ## ***Faster than 4x***
  Shortify provides summary of the video contents and also generates a shorter version of it by cropping it, depending upon some frames which are chosen 
  using Machine Learning.
 
-
 ## Problem Statement
 Watching video lectures before exam day, seems time consuming, and watching hour long videos just to get the essence of a topic is impractical for last minute preparation. Even watching entertainment videos can be dull at times. Repetitive shots, slow narration or even boring and uninteresting stuff can waste huge chunks of our time.   
-
 
 ## Solution
 > We propose a solution which will take a video and in short, shorten it for us, while maintaining the essence and information intact.   
@@ -33,8 +32,3 @@ For instance, you are preparing for an exam but you have very less time, so ever
 * Hemabh Kamboj
 * Kumar Kartikeya
 * Umang Ahuja   
-
-
-
-
-
